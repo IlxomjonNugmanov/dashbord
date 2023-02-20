@@ -1,0 +1,37 @@
+.header{
+    /* width: 100%; */
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+   
+}
+.HeaderLogoWrap__right{
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+.headerAvatarWrap{
+    display: flex;
+    align-items: center;
+}
+.headerAvatar{
+    margin-left: 16px;
+    width: 44px ;
+    height: 44px;
+}
+.headerAvatarWrap__title{
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #252733;
+}
+.headerLine{
+    /* border: 1px solid #DFE0EB;
+     */
+    width: 2px;
+    height: 20px;
+    margin: 0 16px;
+    background-color:#DFE0EB ;
+}

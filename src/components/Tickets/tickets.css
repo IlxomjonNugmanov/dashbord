@@ -1,0 +1,39 @@
+.Tickets{
+    padding: 30px;
+    background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+}
+.ticketsHeader{
+    margin-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.tickets__item{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ticketsChild__h3{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #252733;
+}
+.ticketsChild__p{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #C5C7CD;
+}
+.ticketsMain, .ticketsTable{
+    width: 100%;
+}
+.td1{
+    display: flex;
+    column-gap: 20px;
+}
+td{
+    padding: 20px;
+    border-bottom: 1px solid #252733;
+}

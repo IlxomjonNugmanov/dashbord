@@ -1,0 +1,25 @@
+.OverviewCardTop__iteam{
+    width: 258px;
+    /* width: 100%; */
+    padding: 24px 40px;
+    background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+}
+.OverviewCardTop__text{
+    margin-bottom: 12px;
+    font-size: 19px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #9FA2B4;
+
+}
+.OverviewCardTop__number{
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #252733;
+
+}

@@ -1,0 +1,15 @@
+.iteam{
+    padding: 18px;
+}
+.itemLink{
+    display: flex;
+    column-gap: 24px;
+    align-items: center;
+}
+.itemText{
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #DDE2FF;
+
+}

@@ -1,0 +1,6 @@
+.OverviewBotm{
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}

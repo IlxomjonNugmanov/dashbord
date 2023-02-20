@@ -1,0 +1,47 @@
+.OverviewBotmRight{
+    max-width: 50%;
+    width: 100%;
+    padding: 30px;
+    background: #FFFFFF;
+    border: 1px solid #DFE0EB;
+    border-radius: 8px;
+}
+.OverviewBotmLeft__header__title{
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+.OverviewBotmLeft__header__text{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #9FA2B4;
+}
+.OverviewBotmLeft__header > p{
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    letter-spacing: 0.2px;
+    color: #3751FF;
+}
+.OverviewBotmRightCard__item{
+    display: flex;
+}
+
+.OverviewBotmLeft__newTaask{
+  display: flex;
+  justify-content: space-between;
+}
+.OverviewBotmLeft__newTaask > input::placeholder{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #C5C7CD;
+}
+.OverviewBotmLeft__newTaaskBtn{
+    padding: 3px 8px;
+    background: #F0F1F7;
+    border-radius: 8px;
+    border: none;
+}
